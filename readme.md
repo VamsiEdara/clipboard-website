@@ -2,10 +2,17 @@
 
 This is a simple Tailwind CSS project.
 
+## <u>Build With</u> 
+<div align="center">
+	<code><img width="50" src="images/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="images/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="images/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+</div>
 
-Project Link : [[https://clipboard-vamsi.netlify.app/]](https://clipboard-vamsi.netlify.app/).
 
-## Usage
+## Project Link : [[https://clipboard-vamsi.netlify.app/]](https://clipboard-vamsi.netlify.app/).
+
+### Usage
 
 Clone the repo:
 
