@@ -1,4 +1,4 @@
-# Simple Starter
+# Clipboard Website
 
 This is a simple Tailwind CSS project.
 
