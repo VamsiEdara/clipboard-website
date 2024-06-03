@@ -1,0 +1,14 @@
+{
+  "name": "clipboard-website",
+  "version": "1.0.0",
+  "description": "website using Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./css/style.css"
+  },
+  "author": "Edara Vamsi",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
