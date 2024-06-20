@@ -11,7 +11,7 @@ This is built using HTML , CSS , TAILWINDCSS.
 ![shields](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-## Project Link : [https://clipboard-vamsi.netlify.app/](https://clipboard-vamsi.netlify.app/).
+## Project Link : [https://clipboard-vamsi.netlify.app/](https://clipboard-vamsi.netlify.app/)
 
 ### Usage
 
