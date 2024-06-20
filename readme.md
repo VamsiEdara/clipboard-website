@@ -10,7 +10,7 @@ This is a simple Tailwind CSS project.
 </div>
 
 
-## Project Link : [[https://clipboard-vamsi.netlify.app/]](https://clipboard-vamsi.netlify.app/).
+## Project Link : [https://clipboard-vamsi.netlify.app/](https://clipboard-vamsi.netlify.app/).
 
 ### Usage
 
