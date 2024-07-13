@@ -2,7 +2,7 @@
 
 This is a simple Tailwind CSS project.
 
-## Build With : 
+## Build With 
 This is built using HTML , CSS , TAILWINDCSS.
 
 ![shields](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
